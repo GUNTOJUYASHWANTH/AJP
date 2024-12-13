@@ -1,0 +1,7 @@
+class is blue print of an object
+class name should be meaning full and follow naming convention
+class name should be unique
+class havew collection of properties and behaviour or variables and methods
+object :
+instance of an object and accept the properties and behaviour
+using the 
